@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+html{
+    font-size: 62.5%;
+}
+
+/* Container */
+
+.container{
+    width: 1170px;
+    margin: 0 auto;
+    background-color: lightblue;
+}
+
+
+/* Row */
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
