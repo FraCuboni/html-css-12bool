@@ -1,0 +1,6 @@
+[class*="col-"]{
+    background-color: red;
+    min-height: 100px;
+    margin: 10px;
+    border: 2px solid black;
+}
