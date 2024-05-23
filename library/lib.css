@@ -26,11 +26,6 @@ html{
     max-width: 100%;
 }
 
-
-
-
-
-
 /* ROW */
 
 .row{
@@ -98,7 +93,7 @@ html{
 
 .col-10{
     flex-basis: calc((100% / 12) * 10);
-    max-width: calc((100% / 12) * 10;
+    max-width: calc((100% / 12) * 10);
 }
 
 .col-11{

@@ -2,6 +2,10 @@
     padding: 10px;
 }
 
+p{
+    text-align: center;
+    line-height: 100%;
+}
 
 [class*="col"]{
     background-color: red;
