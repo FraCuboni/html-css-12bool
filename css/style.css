@@ -1,5 +1,17 @@
-[class*="col-"]{
+.container{
+    padding: 10px;
+}
+
+
+[class*="col"]{
     background-color: red;
     min-height: 100px;
-    border: 2px solid white;
+    padding: 20px;
+    border: 2px solid #ffffff;
+
+}
+
+.col-6>.row>*{
+    background-color: lightgreen;
+    border: 2px solid red;
 }
